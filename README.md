@@ -22,7 +22,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 -   `requirements.txt`: Requirements to run the project
 
 -   `model.pth`: DQN trained model   
-- `report.pdf`: Technical report
+- `report.md`: Technical report
 
 ## Dependencies
 
